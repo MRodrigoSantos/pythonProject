@@ -1,7 +1,7 @@
 # Nome do arquivo que contém os dados dos clientes
 arquivo = "clientes.txt"
 
-# Solicita o CPF do cliente a ser buscado
+# Solicita o CPF do cliente
 cpf_busca = input("Digite o CPF do cliente que deseja buscar: ").strip()
 
 # Variável para indicar se o cliente foi encontrado
